@@ -1,0 +1,12 @@
+### auth0 @adapter {
+###   "key": auth0-management-api"
+### }
+
+type Foo {
+	### @argument declare {
+	###   "key": "userID"
+	### }
+
+	id: ID!
+	name: String!
+}

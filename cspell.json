@@ -1,0 +1,11 @@
+{
+	"import": ["@oly_op/cspell-dict/cspell-ext.json"],
+	"ignorePaths": ["cspell-dictionary..txt"],
+	"dictionaries": ["graphql-bridge"],
+	"dictionaryDefinitions": [
+		{
+			"name": "graphql-bridge",
+			"path": "./cspell-dictionary.txt"
+		}
+	]
+}

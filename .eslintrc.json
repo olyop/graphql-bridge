@@ -1,0 +1,6 @@
+{
+	"extends": ["@oly_op/eslint-config", "@oly_op/eslint-config-graphql"],
+	"parserOptions": {
+		"project": "./tsconfig.json"
+	}
+}

@@ -1,0 +1,5 @@
+type Query {
+	getUserByID(
+		userID: String! ### @argument set { "key": "userID" }
+	): User!
+}

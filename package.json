@@ -1,0 +1,32 @@
+{
+	"private": true,
+	"name": "graphql-bridge",
+	"version": "1.0.0",
+	"description": "graphql-bridge",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/olyop/graphql-bridge/server.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/olyop/graphql-bridge/server/issues"
+	},
+	"homepage": "https://github.com/olyop/graphql-bridge/server#readme",
+	"volta": {
+		"node": "21.6.2",
+		"npm": "10.4.0"
+	},
+	"engines": {
+		"node": "21.6.2",
+		"npm": "10.4.0"
+	},
+	"devDependencies": {
+		"@oly_op/cspell-dict": "1.1.10",
+		"@oly_op/eslint-config": "6.7.20",
+		"@oly_op/eslint-config-graphql": "1.1.0",
+		"@oly_op/prettier-config": "1.8.2",
+		"@oly_op/tsconfig": "1.2.1"
+	}
+}

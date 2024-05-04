@@ -1,0 +1,6 @@
+awslabs
+gqlparser
+graphqlcompiler
+graphqlparser
+redis
+vektah
